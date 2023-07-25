@@ -10,5 +10,5 @@ module jdk9 {
 
     //导出当前文件包
     exports com.qin.model;
-    exports com.qin.model.PrivateInterface;
+    exports com.qin.model.privateInterface;
 }

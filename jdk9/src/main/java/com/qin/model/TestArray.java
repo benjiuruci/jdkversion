@@ -1,6 +1,7 @@
 package com.qin.model;
 
 import java.util.List;
+import java.util.Map;
 import java.util.Set;
 
 /**
@@ -13,10 +14,11 @@ public class TestArray {
         //List.of() 方法用于创建不可变的列表对象.例如
         List<String> list = List.of("q","x");
 
-        list.remove(1);
-
-        //Set.of 方法用于创建不可以列表对象
+        //Set.of 方法用于创建不可变列表对象
         Set<Integer> set = Set.of(1,2,3);
+
+        //Map.of 方法用户创建不可表列表
+        Map<String,Object> map = Map.of("address","河北");
 
 
 

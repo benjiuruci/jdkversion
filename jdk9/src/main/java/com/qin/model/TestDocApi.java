@@ -1,6 +1,7 @@
 package com.qin.model;
 
 /**
+ * 新版DOC
  * @author qinxianzhong
  * @since 2023/7/21 16:32:17
  */

@@ -1,4 +1,4 @@
-package com.qin.model.PrivateInterface;
+package com.qin.model.privateInterface;
 
 /**
  * @author qinxianzhong
@@ -7,8 +7,4 @@ package com.qin.model.PrivateInterface;
 public class PrivateInterfaceImpl implements PrivateInterface {
 
 
-    @Override
-    public int addNum(int i, int j) {
-        return 0;
-    }
 }
