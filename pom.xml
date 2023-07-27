@@ -11,6 +11,7 @@
     <modules>
         <module>jdk9</module>
         <module>jdk10</module>
+        <module>jdk11</module>
     </modules>
 
     <properties>
