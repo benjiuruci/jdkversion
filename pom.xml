@@ -15,6 +15,7 @@
         <module>jdk12</module>
         <module>jdk13</module>
         <module>jdk14</module>
+        <module>jdk15</module>
     </modules>
 
     <properties>
